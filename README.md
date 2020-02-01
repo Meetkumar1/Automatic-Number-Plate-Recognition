@@ -1,3 +1,3 @@
-# Automatic-Number-Plate-Recognition
+# Number-Plate-Recognition
 
 Automatic Number-Plate Recognition using PyTesseract OCR Reader.
